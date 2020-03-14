@@ -1,0 +1,1 @@
+echo "deb https://dl.bintray.com/sobolevn/deb git-secret main" | sudo tee -a /etc/apt/sources.lis
